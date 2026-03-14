@@ -46,9 +46,15 @@ Load [metaphor-mapping.md](metaphor-mapping.md) for technique guidance and start
 
 Pick 2-3 promising territories to explore.
 
-### Step 3: Generate Candidates
+---
 
-Now produce actual names within the chosen territories. Aim for 30-50+ candidates. Include imperfect ones — they reveal patterns.
+**Steps 3-6 are internal working steps.** Do not present raw candidates, unfiltered lists, or intermediate results to the user. Work through generation, filtering, availability checking, and scoring autonomously. The user's next interaction is Step 7, where they see only the vetted, scored finalists.
+
+---
+
+### Step 3: Generate Candidates (internal)
+
+Produce actual names within the chosen territories. Aim for 30-50+ candidates. Include imperfect ones — they reveal patterns. Keep this as an internal working list — do not show it to the user.
 
 **Generation methods:**
 - **Single words** from the metaphor territory
@@ -65,19 +71,19 @@ Load these references as needed:
 - [language-rules.md](language-rules.md) — when using foreign words or non-English source languages. Covers pronunciation accessibility, cross-language meaning checks, diacritics, transliteration, and the exoticism trap
 - [languages/INDEX.md](languages/INDEX.md) — if the naming brief targets a non-English language or multilingual audience. Check the index for available locale files, load the relevant one(s), and use its phonosemantic rules, word formation patterns, and cultural conventions instead of the English defaults
 
-### Step 4: Filter
+### Step 4: Filter (internal)
 
-Apply the anti-pattern checklist and evaluation criteria to cut candidates down to ~10 semifinalists.
+Apply the anti-pattern checklist and evaluation criteria to cut candidates down to ~10 semifinalists. Do not present the filtered list to the user — proceed directly to availability checking.
 
 Load these references:
 - [anti-patterns.md](anti-patterns.md) — patterns that kill names
 - [evaluation.md](evaluation.md) — scoring rubric and comparison framework
 
-### Step 5: Availability Gate (MANDATORY)
+### Step 5: Availability Gate (internal, MANDATORY)
 
 **This step is blocking. Do NOT skip it. Do NOT proceed to evaluation without completing it.**
 
-Before anyone gets emotionally invested in a name, check whether it's actually available. Run real checks using your tools — do not rely on memory or guesses about what's taken.
+Check whether semifinalists are actually available. Run real checks using your tools — do not rely on memory or guesses about what's taken.
 
 Load [availability.md](availability.md) for the full checking workflow and decision framework.
 
@@ -137,15 +143,15 @@ Run whichever of these the naming brief requires:
 
 Only candidates that pass this gate proceed to Step 6.
 
-### Step 6: Evaluate & Compare
+### Step 6: Evaluate & Compare (internal)
 
 Score the **surviving candidates** against weighted criteria. Run contextual sentence tests. Compare side-by-side.
 
 Load [evaluation.md](evaluation.md) for the full framework.
 
-### Step 7: Present & Decide
+### Step 7: Present & Decide (first user-facing output)
 
-Present top 3-5 candidates with:
+This is the first time the user sees any name candidates. Present top 3-5 candidates with:
 - The name
 - Origin story (15-second version)
 - Why it works (which principles it satisfies)
@@ -186,8 +192,9 @@ Don't keep pushing weak names forward. Looping back to an earlier step produces 
 
 1. **Never generate names before establishing context.** Always start with the naming brief.
 2. **Never rely on a thesaurus.** Use metaphor exploration instead.
-3. **Flag AI slop immediately.** If a candidate matches anti-patterns, call it out.
-4. **Never present names without availability checks.** Every finalist must have real, tool-verified availability status. No guessing from memory. Run the checks.
-5. **Never present names without origin stories.** Every name must have a "why."
-6. **Quality over quantity in finals.** Present 3-5 strong candidates, not 20 mediocre ones.
-7. **Respect the user's taste.** If they reject a direction, don't push it — explore a different territory.
+3. **Work autonomously through Steps 3-6.** Do not show raw candidates, unfiltered lists, or intermediate results. The user sees only the final vetted, scored, availability-checked candidates in Step 7.
+4. **Flag AI slop immediately.** If a candidate matches anti-patterns, call it out.
+5. **Never present names without availability checks.** Every finalist must have real, tool-verified availability status. No guessing from memory. Run the checks.
+6. **Never present names without origin stories.** Every name must have a "why."
+7. **Quality over quantity in finals.** Present 3-5 strong candidates, not 20 mediocre ones.
+8. **Respect the user's taste.** If they reject a direction, don't push it — explore a different territory.
