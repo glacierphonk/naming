@@ -18,3 +18,12 @@ MD031: false
 
 # Disable commands-show-output — code blocks may show example output
 MD014: false
+
+# Disable blanks-around-lists — existing content style uses lists directly after paragraphs
+MD032: false
+
+# Disable blanks-around-headings — existing content uses compact heading style
+MD022: false
+
+# Disable no-trailing-punctuation — headings use colons for style
+MD026: false
