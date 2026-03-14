@@ -164,13 +164,13 @@ The best cultural reference names work on multiple levels simultaneously:
 **Level 2 — Surface meaning:** The word communicates something even without knowing the reference
 **Level 3 — Cultural depth:** Knowing the reference adds a layer of meaning that rewards discovery
 
-#### Example: Bluetooth
+### Example: Bluetooth
 
 - Level 1: Two syllables, hard consonants, memorable sound
 - Level 2: "Blue" + "tooth" — distinctive, visual
 - Level 3: Harald Bluetooth united warring factions → technology unites different protocols
 
-#### Example: Kafka
+### Example: Kafka
 - Level 1: Two syllables, hard K opening, distinctive sound
 - Level 2: Sounds technical, feels like it could be a German engineering term
 - Level 3: Franz Kafka's bureaucratic labyrinths → complex distributed data systems
