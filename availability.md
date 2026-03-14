@@ -32,11 +32,26 @@ If there's a large brand in a different industry (e.g., "Apex" is a hundred thin
 7. `[name].so` — Uncommon but clean
 
 **If exact .com is taken (it probably is):**
+
+*Prefix variants (generic — work for any product):*
 - `get[name].com` — Established pattern (getbootstrap.com)
 - `use[name].com` — Common for SaaS tools
-- `[name]hq.com` — Professional alternative
 - `try[name].com` — For products with free tiers
+- `[name]hq.com` — Professional alternative
 - `[name]app.com` — For mobile/web apps
+
+*Suffix variants (audience-specific — reinforce positioning):*
+
+When the product targets a specific audience, suffix patterns that include the audience descriptor are often more natural and more available than generic prefixes. The domain itself communicates who the product is for.
+
+- `[name]dev.com` / `[name]devs.com` — Developer tools
+- `[name]team.com` / `[name]teams.com` — Team/collaboration products
+- `[name]guide.com` — Educational/content products
+- `[name]studio.com` — Creative tools
+- `[name]shop.com` — E-commerce/retail
+- `[name]dad.com` / `[name]mom.com` — Parenting products
+- `[name]fit.com` — Health/fitness products
+- `[name]for[audience].com` — General pattern (e.g., `groveforteachers.com`)
 
 **Domain landscape reality:**
 - 350M+ domain registrations globally. Good single-word .com is essentially impossible without purchasing
@@ -50,8 +65,9 @@ If there's a large brand in a different industry (e.g., "Apex" is a hundred thin
 If your candidate is a common English dictionary word (e.g., "vault", "flint", "ward"), skip exact `.com`/`.dev`/`.io` checks — they are taken. Go directly to:
 
 1. **Prefix variants:** `get[name].com`, `use[name].com`, `try[name].com`, `[name]hq.com`, `[name]app.com`
-2. **Alternative TLDs:** `[name].site`, `[name].sh` (CLI tools), `[name].co`
-3. **Compound domains:** `[name]check.com`, `[name]kit.com`, `[name]site.com`
+2. **Suffix variants (if targeting a specific audience):** `[name]dev.com`, `[name]team.com`, `[name]guide.com`, etc.
+3. **Alternative TLDs:** `[name].site`, `[name].sh` (CLI tools), `[name].co`
+4. **Compound domains:** `[name]check.com`, `[name]kit.com`, `[name]site.com`
 
 The same applies to npm packages and GitHub org names — common English words are all taken. Use scoped packages (`@org/name`) and your own GitHub org (`yourorg/name`) instead.
 
