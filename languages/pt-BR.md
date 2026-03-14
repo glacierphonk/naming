@@ -8,6 +8,55 @@ Brazilian Portuguese (pt-BR) has its own phonosemantic character, cultural conve
 
 Brazilian Portuguese is **vowel-forward** — unstressed vowels stay open and audible, giving the language a melodic, flowing quality. Where European Portuguese swallows vowels, Brazilian Portuguese sings them.
 
+### Brazilian tech brand case studies
+
+#### Nubank
+Nubank is one of Brazil’s most successful fintech brands. The name combines **“Nu”** (from *nude* or *bare*, implying simplicity and transparency) with **“bank.”**
+
+Why it works in Brazilian Portuguese:
+- Short and easy to pronounce for Portuguese speakers.
+- Suggests openness and removing traditional banking complexity.
+- Distinct from traditional Portuguese financial institution names.
+
+Naming lesson:
+Minimalist hybrid names (short English + conceptual meaning) can communicate innovation and break from legacy institutions.
+
+---
+
+#### QuintoAndar
+QuintoAndar (“fifth floor”) is a Brazilian real-estate platform.
+
+Why it works:
+- The phrase evokes a typical urban apartment context in Brazil.
+- Uses everyday Portuguese vocabulary that feels familiar and memorable.
+
+Naming lesson:
+Everyday Portuguese expressions can create strong brand recall when they connect to common lived experiences.
+
+---
+
+#### 99
+“99” is a ride-hailing platform originally founded in Brazil.
+
+Naming characteristics:
+- Purely numeric branding.
+- Easy to remember and type on mobile devices.
+- Avoids language barriers across regions.
+
+Naming lesson:
+Numeric names can work well in mobile-first markets and scale easily across languages.
+
+---
+
+#### PagSeguro / PagBank
+“Pag” comes from **pagamento** (payment).
+
+Why it works:
+- Uses a shortened Portuguese root that immediately signals financial services.
+- Compound naming (“Pag” + descriptor) creates flexibility for product extensions.
+
+Naming lesson:
+Shortened Portuguese roots can form scalable naming systems for fintech products.
 ### Vowel System
 
 | Sound | Character | Notes |
