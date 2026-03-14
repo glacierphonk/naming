@@ -44,7 +44,7 @@ Ask: what real-world things share qualities with this product?
 
 Load [metaphor-mapping.md](metaphor-mapping.md) for technique guidance and starter territory maps.
 
-Pick 2-3 promising territories to explore.
+Pick 2-3 promising territories to explore. **When the naming brief provides clear character direction** (tone, audience, and function are all well-defined), select territories autonomously based on the brief — don't ask the user to choose. Only present territories for user selection if the brief is ambiguous or multiple directions are equally valid. Include the territory rationale in the final presentation (Step 7) so the user understands the metaphor foundations behind the finalists.
 
 ---
 
