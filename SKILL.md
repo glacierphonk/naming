@@ -103,6 +103,8 @@ Do this before any domain or platform checks — it's the most common kill reaso
 
 **2. Domain and platform checks for survivors:**
 
+**Dictionary word shortcut:** If a candidate is a common English dictionary word (single word, commonly known), skip exact-match TLD checks (`.com`, `.dev`, `.io`, `.app`, `.co`) — they are taken. Go directly to prefix variants (`get[name].com`, `use[name].com`), suffix variants (`[name]dev.com`, `[name]guide.com`), and alternative TLDs (`.site`, `.sh`). Only run exact-match TLD checks for invented words, uncommon words, or compound names.
+
 **Use the bundled availability script** for fast batch checking:
 ```bash
 bash ${CLAUDE_SKILL_DIR}/scripts/check-availability.sh [name] domain npm github pypi telegram
