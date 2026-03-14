@@ -82,9 +82,15 @@ Load [availability.md](availability.md) for the full checking workflow and decis
 
 #### Required actions for EVERY semifinalist:
 
-**Prefer command-line tools** (curl, whois, npm, gh) over WebSearch/WebFetch. CLI tools give deterministic, parseable results. Use WebSearch only for checks that have no CLI equivalent (competitor search, app stores, social handles).
+**Use the bundled availability script** for fast batch checking:
+```bash
+bash ${CLAUDE_SKILL_DIR}/scripts/check-availability.sh [name] domain npm github pypi telegram
+```
+Pass only the platforms relevant to the naming brief. Run it for each semifinalist. The script checks domain (whois for .com/.dev/.io), npm, PyPI, GitHub org, crates.io, RubyGems, WP plugin slug, and Telegram.
 
-**Run checks in parallel where possible** — batch multiple curl/whois commands in a single Bash call to avoid doing 10 checks one at a time.
+**For checks the script doesn't cover** (competitor search, app stores, social handles), use WebSearch.
+
+**Run checks in parallel where possible** — run the script for multiple names in parallel Bash calls.
 
 **1. Competitor conflict search (WebSearch):**
 - Search `"[name]" [product category/industry]` — is there a direct competitor with this name?
