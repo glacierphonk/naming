@@ -137,6 +137,17 @@ Present top 3-5 candidates with:
 
 Recommend the user sit with finalists for 24 hours before deciding.
 
+## When to Loop Back
+
+The process is not strictly linear. Loop back when:
+
+- **All candidates fail anti-patterns (Step 4):** Go to Step 2 — you need new metaphor territories, not more names from exhausted territories.
+- **Fewer than 3 survive availability (Step 5):** Go to Step 3 — generate more candidates in the surviving territories.
+- **No candidate scores above 70 (Step 6):** Go to Step 2 — the metaphor foundation isn't strong enough.
+- **User rejects all finalists (Step 7):** Go to Step 1 — revisit the naming brief. Maybe the constraints, tone, or audience assumptions need adjusting.
+
+Don't keep pushing weak names forward. Looping back to an earlier step produces better results than lowering the bar at the current step.
+
 ## Reference Files
 
 | File | When to load |
