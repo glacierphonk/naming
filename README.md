@@ -73,9 +73,7 @@ The 7-step process and 14 reference files are the depth layer. For a quick namin
 | `evaluation.md` | Scoring rubric, comparison framework, decision checklist |
 | `language-rules.md` | Working with foreign words — pronunciation, diacritics, transliteration, exoticism trap |
 | `scripts/check-availability.sh` | Bundled availability checker for domains, npm, GitHub, PyPI, Telegram, etc. |
-| `languages/pl.md` | Polish — phonosemantics, word formation, Slavic mythology, cultural conventions |
-| `languages/pt-PT.md` | European Portuguese — vowel reduction, maritime cultural territory, diacritics |
-| `languages/pt-BR.md` | Brazilian Portuguese — open vowels, diminutives, Tupi-Guarani, regional variation |
+| `languages/INDEX.md` | Language-specific naming guides — see [index](languages/INDEX.md) for available languages (Polish, Portuguese, and more) |
 
 New language files welcome — see [CONTRIBUTING.md](CONTRIBUTING.md#adding-a-language-file) for the template and required sections.
 

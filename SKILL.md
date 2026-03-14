@@ -61,7 +61,7 @@ Load these references as needed:
 - [cultural-references.md](cultural-references.md) — using mythology, literature, science
 - [brand-architecture.md](brand-architecture.md) — if naming within a brand family
 - [language-rules.md](language-rules.md) — when using foreign words or non-English source languages. Covers pronunciation accessibility, cross-language meaning checks, diacritics, transliteration, and the exoticism trap
-- [languages/\<locale\>.md](languages/) — if the naming brief targets a non-English language or multilingual audience. Load the relevant locale file(s) and use its phonosemantic rules, word formation patterns, and cultural conventions instead of (or alongside) the English defaults
+- [languages/INDEX.md](languages/INDEX.md) — if the naming brief targets a non-English language or multilingual audience. Check the index for available locale files, load the relevant one(s), and use its phonosemantic rules, word formation patterns, and cultural conventions instead of the English defaults
 
 ### Step 4: Filter
 
@@ -109,7 +109,7 @@ Pass only the platforms relevant to the naming brief. Run it for each semifinali
 Run whichever of these the naming brief requires:
 
 | Platform | How to check |
-|----------|-------------|
+| -------- | ----------- |
 | **npm** | Bash: `npm view [name] 2>&1` — "not found" = available |
 | **PyPI** | Bash: `curl -s -o /dev/null -w "%{http_code}" https://pypi.org/project/[name]/` — 404 = available |
 | **GitHub org** | Bash: `curl -s -o /dev/null -w "%{http_code}" https://github.com/[name]` — 404 = available |
@@ -159,7 +159,7 @@ Don't keep pushing weak names forward. Looping back to an earlier step produces 
 ## Reference Files
 
 | File | When to load |
-|------|-------------|
+| ---- | ----------- |
 | [principles.md](principles.md) | When generating or evaluating names — the core theory |
 | [phonosemantics.md](phonosemantics.md) | When sound-matching matters for the brief |
 | [anti-patterns.md](anti-patterns.md) | When filtering candidates |
@@ -170,9 +170,7 @@ Don't keep pushing weak names forward. Looping back to an earlier step produces 
 | [availability.md](availability.md) | When checking platform availability |
 | [case-studies.md](case-studies.md) | When studying real-world naming examples |
 | [evaluation.md](evaluation.md) | When scoring and comparing finalists |
-| [languages/pl.md](languages/pl.md) | When naming for a Polish audience |
-| [languages/pt-PT.md](languages/pt-PT.md) | When naming for a European Portuguese audience |
-| [languages/pt-BR.md](languages/pt-BR.md) | When naming for a Brazilian Portuguese audience |
+| [languages/INDEX.md](languages/INDEX.md) | When naming for a non-English audience — see index for available languages |
 
 ## Key Rules
 
