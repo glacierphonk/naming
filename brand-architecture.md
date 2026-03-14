@@ -5,6 +5,30 @@ When a product exists within a larger brand, naming isn't just about the individ
 ---
 
 ## Architecture Models
+### Google → Alphabet (2015)
+
+Google restructured under Alphabet as a "house of brands".
+
+Before:
+Google was the parent brand for all projects (Google Maps, Google Drive, Google X).
+
+After:
+Alphabet became the parent holding company.
+
+Structure:
+- Google → core internet products (Search, Maps, Ads, Android)
+- Waymo → autonomous driving
+- Verily → life sciences
+- DeepMind → AI research
+- Calico → longevity research
+
+Outcome:
+- Allowed experimental projects to operate independently
+- Improved financial transparency for investors
+- Reduced brand risk for Google’s core products
+
+Lesson:
+A "house of brands" architecture works well when experimental or high-risk products should not affect the core brand.
 
 ### 1. Monolithic (Branded House)
 
