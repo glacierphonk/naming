@@ -45,6 +45,18 @@ If there's a large brand in a different industry (e.g., "Apex" is a hundred thin
 - Avoid novelty TLDs (.xyz, .ninja, .guru, .io.cool) for serious products — they signal impermanence
 - Don't negotiate with domain squatters unless you're prepared to pay $5k-$50k+
 
+**Shortcut for common dictionary words:**
+
+If your candidate is a common English dictionary word (e.g., "vault", "flint", "ward"), skip exact `.com`/`.dev`/`.io` checks — they are taken. Go directly to:
+
+1. **Prefix variants:** `get[name].com`, `use[name].com`, `try[name].com`, `[name]hq.com`, `[name]app.com`
+2. **Alternative TLDs:** `[name].site`, `[name].sh` (CLI tools), `[name].co`
+3. **Compound domains:** `[name]check.com`, `[name]kit.com`, `[name]site.com`
+
+The same applies to npm packages and GitHub org names — common English words are all taken. Use scoped packages (`@org/name`) and your own GitHub org (`yourorg/name`) instead.
+
+Focus availability effort on platform-specific checks where the exact name may actually be free (plugin directory slugs, lesser-used package registries, social handles with bot suffixes).
+
 ### 3. Code Platform Availability
 
 **GitHub:**
