@@ -83,6 +83,8 @@ Load [availability.md](availability.md) for the full checking workflow and decis
 
 **What to check is determined by the naming brief (Step 1, question 6).** The user told you which platforms matter. Use that answer to decide which checks are mandatory vs. nice-to-have. Refer to the "Availability Decision Framework" table in availability.md to prioritize.
 
+**Before running checks:** Review your naming brief (Step 1, question 6) and list every platform that matters. Map each to the script's platform argument. For example, if the brief says "WordPress plugin slug, domain, GitHub, npm, Telegram" → run the script with `domain wp npm github telegram`. Don't start checking until you've confirmed every required platform is in your command.
+
 #### Required actions for EVERY semifinalist:
 
 **Use the bundled availability script** for fast batch checking:
