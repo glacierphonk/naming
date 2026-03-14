@@ -114,8 +114,19 @@ Ask these about any name candidate. If the answer is yes, kill the name:
 - [ ] Does it match three or more patterns in the AI Name Slop table above?
 - [ ] Would you cringe introducing the product by name in a professional context?
 - [ ] Is the name's primary virtue that the domain was available?
+- [ ] Does any common meaning or connotation of this word **conflict with** the product's core function or value proposition?
 
 Two or more "yes" answers = disqualify the candidate.
+
+---
+
+## Semantic Self-Contradiction
+
+A name can have a strong primary metaphor that maps well to the product, while simultaneously carrying a secondary meaning that undermines the product's core story. This is a subtle failure mode — the name has a story, plants an image, sounds good, and is distinctive, but it carries a built-in contradiction.
+
+Check all dictionary definitions and common usages of the candidate word — not just the one you're using as the metaphor. If any common meaning contradicts the product's purpose, the name will confuse people who encounter the contradictory meaning first.
+
+**How to catch it:** For each candidate, ask: "What else does this word mean?" Look at all common definitions, idioms, and phrases that use the word. If any of them work against the product's core value, the name is weakened — even if the primary metaphor is strong.
 
 ---
 
