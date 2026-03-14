@@ -4,6 +4,14 @@ After filtering candidates through anti-patterns and principles, you need a stru
 
 ---
 
+## Pre-Scoring Gate
+
+Before scoring any candidate on the rubric, run it through the Red Flags Checklist in [anti-patterns.md](anti-patterns.md). Any candidate with two or more "yes" answers is disqualified — do not score it. Only candidates that clear this gate proceed to numerical scoring.
+
+This prevents wasting evaluation effort on names that are dead on arrival.
+
+---
+
 ## Scoring Rubric
 
 Rate each finalist on these criteria. Use a 1-5 scale where:
