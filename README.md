@@ -75,12 +75,7 @@ This skill is opinionated:
 
 ## Contributing
 
-PRs welcome — especially:
-
-- Additional case studies with verified origin stories
-- Phonosemantics research citations
-- Metaphor territory maps for underrepresented product categories
-- Anti-pattern examples from real products
+PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for conventions, file structure, and how to add language files or case studies.
 
 ## License
 
