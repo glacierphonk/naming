@@ -61,6 +61,11 @@ You can also reference the skill naturally in conversation — describe your nam
 | `availability.md` | Platform checking workflow and domain landscape |
 | `case-studies.md` | Real product name origins and analysis |
 | `evaluation.md` | Scoring rubric, comparison framework, decision checklist |
+| `languages/pl.md` | Polish — phonosemantics, word formation, Slavic mythology, cultural conventions |
+| `languages/pt-PT.md` | European Portuguese — vowel reduction, maritime cultural territory, diacritics |
+| `languages/pt-BR.md` | Brazilian Portuguese — open vowels, diminutives, Tupi-Guarani, regional variation |
+
+New language files welcome — see [CONTRIBUTING.md](CONTRIBUTING.md#adding-a-language-file) for the template and required sections.
 
 ## Philosophy
 
