@@ -83,7 +83,7 @@ Load [availability.md](availability.md) for the full checking workflow and decis
 #### Required actions for EVERY semifinalist:
 
 **Use the bundled availability script** for fast batch checking:
-```
+```bash
 bash ${CLAUDE_SKILL_DIR}/scripts/check-availability.sh [name] domain npm github pypi telegram
 ```
 Pass only the platforms relevant to the naming brief. Run it for each semifinalist. The script checks domain (whois for .com/.dev/.io), npm, PyPI, GitHub org, crates.io, RubyGems, WP plugin slug, and Telegram.
