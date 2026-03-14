@@ -118,7 +118,7 @@ Run whichever of these the naming brief requires:
 | **GitHub repo** | Bash: `gh repo view [org]/[name] 2>&1` — "not found" = available |
 | **crates.io** | Bash: `curl -s -o /dev/null -w "%{http_code}" https://crates.io/api/v1/crates/[name]` — 404 = available |
 | **RubyGems** | Bash: `curl -s -o /dev/null -w "%{http_code}" https://rubygems.org/api/v1/gems/[name].json` — 404 = available |
-| **WP plugin slug** | Bash: `curl -s -o /dev/null -w "%{http_code}" https://api.wordpress.org/plugins/info/1.2/?action=plugin_information&slug=[name]` — check response for "null" = available |
+| **WP plugin slug** | Bash: `curl -s "https://api.wordpress.org/plugins/info/1.2/?action=plugin_information&slug=[name]"` — `"Plugin not found"` in response = available |
 | **Telegram** | Bash: `curl -s -o /dev/null -w "%{http_code}" https://t.me/[name]` — 404 = available |
 | **App stores** | WebSearch: `"[name]" site:apps.apple.com` or `"[name]" site:play.google.com` |
 | **Social handles** | WebSearch: `site:x.com/[name]`, `site:instagram.com/[name]` |

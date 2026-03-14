@@ -85,7 +85,7 @@ for platform in "${PLATFORMS[@]}"; do
       ;;
     wp)
       result=$(curl -s "https://api.wordpress.org/plugins/info/1.2/?action=plugin_information&slug=${NAME}" 2>/dev/null || echo "error")
-      if [ "$result" = "null" ] || [ "$result" = "false" ]; then
+      if echo "$result" | grep -qi "not found"; then
         ok "WP plugin: ${NAME}"
       else
         taken "WP plugin: ${NAME}"
