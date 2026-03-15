@@ -179,6 +179,68 @@ Some naming approaches are inherently more likely to have availability:
 
 ---
 
+## SEO and Searchability
+
+A name that's available on every platform but impossible to find on Google is still broken. Searchability is a practical, post-launch concern that compounds over time.
+
+### The Google Test
+
+Before committing to a name, search it:
+
+1. **"[name]"** — What dominates the first page? If Wikipedia, a major brand, or a well-known concept owns it, you'll fight for visibility indefinitely
+2. **"[name] [your category]"** — How many pages deep before a new entrant could realistically appear?
+3. **"[name] app"** or **"[name] tool"** — Does adding a generic qualifier help? If the name only works with a qualifier, the name is weak
+
+### Wikipedia Collision
+
+If the word has a Wikipedia article, you'll struggle for the Google knowledge panel. Wikipedia articles rank for single-word searches almost permanently.
+
+**High collision risk:**
+
+- Dictionary words with Wikipedia entries (Apex, Forge, Atlas, Pulse, Orbit)
+- Historical figures, places, or concepts
+- Scientific terms
+
+**Lower collision risk:**
+
+- Compound words with unique combinations (Mailchimp, Datadog, PagerDuty)
+- Modified or invented words (Figma, Vercel, Grafana)
+- Words from less-common languages
+
+### Disambiguation Cost
+
+How much qualifier does someone need to add to find your product?
+
+| Disambiguation level | Example | Search cost |
+| -------------------- | ------- | ----------- |
+| **None needed** | "Figma" finds the product immediately | Ideal |
+| **Category qualifier** | "Linear app" or "Linear issue tracker" | Acceptable |
+| **Multiple qualifiers** | "Bear notes app iOS" | Expensive -- too many words needed |
+| **Impossible** | Generic word in a crowded category | Dead on arrival |
+
+The goal: own your name as a branded search term within 6-12 months. Shorter, more unique names achieve this faster.
+
+### Domain-Search Alignment
+
+Your domain affects search visibility:
+
+- **Exact match .com** helps search ranking (declining factor, but still real)
+- **Common TLDs** (.com, .dev, .io) are treated normally by search engines
+- **Obscure TLDs** (.xyz, .ninja, .guru) carry no SEO penalty but signal impermanence to users
+- **Prefix domains** (get[name].com, use[name].com) work fine for search -- Google treats the brand portion as the entity
+
+### Searchability Scoring Guide
+
+When scoring searchability in the evaluation rubric:
+
+- **5** -- Name is unique or near-unique. First-page results within weeks of launch. No Wikipedia collision
+- **4** -- Name has some competition but "[name] [category]" finds you immediately. Manageable disambiguation
+- **3** -- Name competes with other entities but in clearly different industries. Needs consistent qualifier
+- **2** -- Name competes with well-known brands or concepts. Multiple qualifiers needed. Knowledge panel blocked
+- **1** -- Name is a common word dominated by Wikipedia, major brands, or saturated categories. Unsearchable without extensive qualifier chains
+
+---
+
 ## Quick Availability Check Script
 
 For technical users, automate the tedious parts:
