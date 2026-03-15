@@ -43,6 +43,7 @@ Ask: what real-world things share qualities with this product?
 - What cultural references (mythology, literature, science) map to this function?
 
 Load [metaphor-mapping.md](metaphor-mapping.md) for technique guidance and starter territory maps.
+Load [case-studies.md](case-studies.md) for real examples of how products found their naming metaphors.
 
 Pick 2-3 promising territories to explore. **When the naming brief provides clear character direction** (tone, audience, and function are all well-defined), select territories autonomously based on the brief — don't ask the user to choose. Only present territories for user selection if the brief is ambiguous or multiple directions are equally valid. Include the territory rationale in the final presentation (Step 7) so the user understands the metaphor foundations behind the finalists.
 
@@ -71,6 +72,7 @@ Available references for this step (load individually as relevant):
 - [cultural-references.md](cultural-references.md) — using mythology, literature, science
 - [brand-architecture.md](brand-architecture.md) — if naming within a brand family
 - [language-rules.md](language-rules.md) — when using foreign words or non-English source languages. Covers pronunciation accessibility, cross-language meaning checks, diacritics, transliteration, and the exoticism trap
+- [case-studies.md](case-studies.md) — real product naming examples by technique
 - [languages/INDEX.md](languages/INDEX.md) — if the naming brief targets a non-English language or multilingual audience. Check the index for available locale files, load the relevant one(s), and use its phonosemantic rules, word formation patterns, and cultural conventions instead of the English defaults
 
 ### Step 4: Filter (internal)
