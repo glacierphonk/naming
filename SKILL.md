@@ -63,7 +63,9 @@ Produce actual names within the chosen territories. Aim for 30-50+ candidates. I
 - **Foreign words** from relevant languages
 - **Sound-first** — say syllables aloud, find combinations that sound right, check if they mean anything
 
-Load these references as needed:
+**Do NOT load all references upfront.** Load each file only when you reach the step that needs it. Loading files consumes context — only pay for what you use.
+
+Available references for this step (load individually as relevant):
 - [principles.md](principles.md) — core naming principles
 - [phonosemantics.md](phonosemantics.md) — matching sound to meaning
 - [cultural-references.md](cultural-references.md) — using mythology, literature, science
