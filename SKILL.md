@@ -2,6 +2,7 @@
 name: naming
 description: Name products, SaaS, brands, open source projects, bots, and apps. Use when the user needs to name something, find a brand name, or pick a product name. Metaphor-driven process that produces memorable, meaningful names and avoids AI slop.
 allowed-tools: Read, Grep, Glob, Bash(whois *), Bash(curl *), Bash(npm view *), Bash(gh repo view *), WebSearch, WebFetch
+argument-hint: [describe what needs a name]
 ---
 
 # Naming Skill
