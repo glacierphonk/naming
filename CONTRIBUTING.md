@@ -56,6 +56,32 @@ Files are loaded on demand during the naming process — not all at once. SKILL.
 
 **When your change in one file affects another**, update the cross-references. For example, adding a new anti-pattern to `anti-patterns.md` that has a real-world example should also add a reference in `case-studies.md`.
 
+## Context budget and file sizes
+
+The skill's reference files are loaded into Claude's context window on demand — each file consumes tokens. Contributors should understand the cost model:
+
+**Loading tiers:**
+
+| Tier | What loads | Context cost |
+| ---- | ---------- | ------------ |
+| **Always** | Skill name and description (from frontmatter) | ~2% of budget |
+| **On invoke** | SKILL.md (~200 lines, process overview) | ~3-4% of budget |
+| **On demand** | Reference files, one at a time as Claude reaches the relevant step | ~2-4% each |
+| **Never auto-loaded** | Language files, industry files, case-studies.md — only when explicitly relevant | 0% unless needed |
+
+**Typical session costs:**
+
+- **Simple naming** (Steps 1-3-7, skip thorough evaluation): loads 2-3 reference files
+- **Full process** (all 7 steps): loads 5-6 reference files
+- **Multilingual naming**: adds 1-2 language files on top
+
+**Guidelines for contributors:**
+
+- Keep reference files under 300 lines where possible. A 500-line file is acceptable; a 2,000-line file wastes context on content that may not apply to the current naming task
+- When adding content, consider whether it belongs in the file that's loaded early (high visibility) or one loaded later (lower cost)
+- Split large files rather than growing them — SKILL.md already directs Claude to load files at specific steps, so splitting a file in two doesn't break the workflow
+- New reference files are free until loaded — adding a file to the repo costs nothing if SKILL.md only loads it when relevant
+
 ## Adding a language file
 
 Use `languages/pl.md` as the template. Every language file needs these sections:
