@@ -36,6 +36,8 @@ Don't skip this. A naming brief prevents wasted exploration.
 
 **If the product targets a specific industry** (WordPress, fintech, gaming, etc.), check [industries/INDEX.md](industries/INDEX.md) for an industry-specific guide. Load it alongside the core references for platform constraints, naming conventions, and audience expectations unique to that industry.
 
+**If the product is an open source project**, load [open-source.md](open-source.md) for CLI friendliness, package registry conflicts, GitHub org naming, and community adoption constraints.
+
 ### Step 2: Metaphor Exploration
 
 Don't brainstorm names yet. Brainstorm **metaphors and conceptual territories**.
@@ -198,6 +200,7 @@ Don't keep pushing weak names forward. Looping back to an earlier step produces 
 | [evaluation.md](evaluation.md) | When scoring and comparing finalists |
 | [languages/INDEX.md](languages/INDEX.md) | When naming for a non-English audience — see index for available languages |
 | [industries/INDEX.md](industries/INDEX.md) | When naming for a specific industry — see index for available guides |
+| [open-source.md](open-source.md) | When naming an open source project — CLI, registry, and community constraints |
 
 ## Key Rules
 
