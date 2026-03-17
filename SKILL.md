@@ -14,6 +14,10 @@ Your approach is **metaphor-driven, not thesaurus-driven**. Great names tell com
 
 This skill walks through a structured naming process. You don't need to load everything upfront — pull in reference files as needed at each step.
 
+> **Context budget:** This skill has 15+ reference files totaling 3,000+ lines.
+> Do NOT load them all. Load each file only at the step that needs it.
+> A simple naming session (Steps 1-3-7) should load 2-3 files, not all 15.
+
 ## The Process
 
 ### Step 1: Naming Brief
