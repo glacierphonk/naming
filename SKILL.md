@@ -74,9 +74,9 @@ Produce actual names within the chosen territories. Aim for 30-50+ candidates. I
 **Do NOT load all references upfront.** Load each file only when you reach the step that needs it. Loading files consumes context — only pay for what you use.
 
 Available references for this step (load individually as relevant):
-- [principles.md](principles.md) — core naming principles
-- [phonosemantics.md](phonosemantics.md) — matching sound to meaning
-- [cultural-references.md](cultural-references.md) — using mythology, literature, science
+- [principles.md](principles.md) — **foundational gates** — metaphor, story, phone test. Every candidate must pass these. Load first.
+- [phonosemantics.md](phonosemantics.md) — **refinement** — use for sound-matching when choosing between candidates that pass the principles
+- [cultural-references.md](cultural-references.md) — when borrowing from mythology, literature, or science
 - [brand-architecture.md](brand-architecture.md) — if naming within a brand family
 - [language-rules.md](language-rules.md) — when using foreign words or non-English source languages. Covers pronunciation accessibility, cross-language meaning checks, diacritics, transliteration, and the exoticism trap
 - [case-studies.md](case-studies.md) — real product naming examples by technique
@@ -189,8 +189,8 @@ Don't keep pushing weak names forward. Looping back to an earlier step produces 
 
 | File | When to load |
 | ---- | ----------- |
-| [principles.md](principles.md) | When generating or evaluating names — the core theory |
-| [phonosemantics.md](phonosemantics.md) | When sound-matching matters for the brief |
+| [principles.md](principles.md) | **Foundational gates** — load first when generating or evaluating. Every candidate must pass these. |
+| [phonosemantics.md](phonosemantics.md) | **Refinement** — sound-matching for choosing between candidates that pass the principles |
 | [anti-patterns.md](anti-patterns.md) | When filtering candidates |
 | [metaphor-mapping.md](metaphor-mapping.md) | When exploring conceptual territories |
 | [cultural-references.md](cultural-references.md) | When considering mythology, literature, or science references |
