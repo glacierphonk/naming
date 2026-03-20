@@ -33,6 +33,11 @@ Framework adapted from professional naming agencies. If a name has any of these,
 
 Driven by fear of standing out. "WordPress Site Monitor" is a description, not a name. "Cloud-Based Team Collaboration Platform" is a sentence, not a brand.
 
+> **Trademark reality check:**  
+> Using **"WordPress" inside a product name is not only generic — it can violate the WordPress Foundation trademark policy.  
+> Acceptable pattern: *"[Product Name] for WordPress"* (descriptor).  
+> Risky / disallowed pattern: *"WordPressBackup", "WordPressMonitor", "WPWordPressTool".*
+
 **Why it happens:** Stakeholders feel safe with descriptions because they're immediately clear. But clarity without memorability is useless — people understand what the product does for 5 seconds, then forget its name forever.
 
 **The fix:** Use the description as your tagline, not your name. The name creates recall; the tagline creates clarity.
