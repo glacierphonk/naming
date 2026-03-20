@@ -128,6 +128,17 @@ For serious products, do a basic trademark search. You don't need a lawyer for i
 
 ---
 
+### WordPress Naming Restrictions
+
+The WordPress Foundation enforces trademark rules that affect plugin and theme naming:
+
+**WordPress cannot be used** in commercial product names (plugin, theme, SaaS)
+**WP is allowed** but discouraged — signals commodity, not premium
+**"for WordPress" is acceptable** as a descriptor, not a name component
+**Check:** WordPress Trademark Policy
+
+---
+
 ## Availability Decision Framework
 
 Not every platform needs to be available. Prioritize based on your product type:
