@@ -135,7 +135,7 @@ The WordPress Foundation enforces trademark rules that affect plugin and theme n
 - **"WordPress" cannot be used** in commercial product names (plugin, theme, SaaS)
 - **"WP" is allowed** but discouraged — signals commodity, not premium
 - **"for WordPress" is acceptable** as a descriptor, not a name component
-- **Check:** WordPress Trademark Policy
+- **Check:** [WordPress Trademark Policy](https://wordpressfoundation.org/trademark-policy/)
 
 ---
 
