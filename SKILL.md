@@ -42,14 +42,7 @@ Don't skip this. A naming brief prevents wasted exploration.
 
 Don't brainstorm names yet. Brainstorm **metaphors and conceptual territories**.
 
-Ask: what real-world things share qualities with this product?
-
-- What does similar work in the physical world?
-- What processes in nature mirror this product's function?
-- What tools, roles, or machines serve an analogous purpose?
-- What cultural references (mythology, literature, science) map to this function?
-
-Load [metaphor-mapping.md](metaphor-mapping.md) for technique guidance and starter territory maps.
+Load [metaphor-mapping.md](metaphor-mapping.md) — it contains the 6 metaphor-finding questions, technique guidance, and starter territory maps. Work through all 6 questions against your simplified core function.
 Load [case-studies.md](case-studies.md) for real examples of how products found their naming metaphors.
 
 Pick 2-3 promising territories to explore. **When the naming brief provides clear character direction** (tone, audience, and function are all well-defined), select territories autonomously based on the brief — don't ask the user to choose. Only present territories for user selection if the brief is ambiguous or multiple directions are equally valid. Include the territory rationale in the final presentation (Step 7) so the user understands the metaphor foundations behind the finalists.
