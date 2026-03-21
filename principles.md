@@ -135,6 +135,8 @@ The distinctive names tell you nothing about the category at first glance — an
 
 **Exception:** When the product IS the category (e.g., a niche developer tool), a slightly descriptive compound can work if it's concrete enough. "Wordfence" describes what it does (fence for WordPress) but the metaphor is concrete enough to stick.
 
+**WordPress ecosystem note:** The wp.org plugin directory is search-driven — users find plugins by searching for their function, not by brand awareness. This creates pressure toward descriptive names. Resist it. The most memorable WordPress plugins (Yoast, Elementor, Jetpack, Akismet) are distinctive, not descriptive. Their discoverability comes from the tagline and description fields, not from keyword-stuffing the name.
+
 **The "AI" prefix trap:** "AI" in a product name follows the same lifecycle as "e-", "i", and "Cloud" before it. It signals the era, not the product. In 2025, "AI" feels current. By 2028, it will feel like "e-" feels today — technically accurate but redundantly obvious. Build your name to outlast the buzzword cycle.
 
 The test: remove "AI" from the name. Does it still work? If yes, you didn't need it. If the name collapses without "AI", the name was never strong enough.
