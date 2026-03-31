@@ -4,13 +4,17 @@ Phonosemantics is the study of how speech sounds carry inherent meaning. It's no
 
 This isn't magic. It's pattern recognition. Your brain has processed millions of words and built unconscious associations between sounds and meanings. Naming can leverage those associations.
 
+**Important note:** The patterns described here are based primarily on English and related Germanic languages. While some effects (like the bouba/kiki effect) appear cross‑linguistically, many sound‑meaning associations are language‑specific. If your primary audience speaks a different language, verify that the intended connotations hold in their linguistic context.
+
 ---
 
 ## Consonant Types
 
+*The following categories reflect patterns observed in English. Other languages may associate different qualities with the same sounds.*
+
 ### Plosive Consonants (p, b, t, d, k, g)
 
-**Convey:** Strength, impact, decisiveness, authority, solidity
+**Convey (in English):** Strength, impact, decisiveness, authority, solidity
 
 The airflow is completely stopped and then released — a mini-explosion in the mouth. The physical sensation mirrors the perceived meaning.
 
@@ -25,7 +29,7 @@ Best for: Developer tools, infrastructure, security products, monitoring, anythi
 
 ### Fricatives (f, v, s, z, sh, th)
 
-**Convey:** Speed, smoothness, flow, continuity, elegance
+**Convey (in English):** Speed, smoothness, flow, continuity, elegance
 
 Air flows continuously through a narrow gap — the sound itself is fluid.
 
@@ -40,7 +44,7 @@ Best for: Performance tools, design tools, communication products, anything that
 
 ### Nasals (m, n, ng)
 
-**Convey:** Warmth, humming, continuity, comfort, approachability
+**Convey (in English):** Warmth, humming, continuity, comfort, approachability
 
 Air resonates through the nasal cavity — literally a hum.
 
@@ -54,7 +58,7 @@ Best for: Consumer products, collaboration tools, creative tools, anything that 
 
 ### Liquids (l, r)
 
-**Convey:** Fluidity (l) or roughness/energy (r)
+**Convey (in English):** Fluidity (l) or roughness/energy (r)
 
 | Sound | Character | Examples |
 | ------- | ----------- | ---------- |
@@ -68,7 +72,7 @@ Best for: L-sounds for clean/light products, R-sounds for powerful/technical pro
 
 ## Vowel Positioning
 
-Vowels shape the perceived "size" and "weight" of a name. This is one of the most consistent findings in phonosemantics research.
+Vowels shape the perceived "size" and "weight" of a name. This is one of the most consistent findings in phonosemantics research, and the front/back distinction holds across many languages.
 
 ### Front Vowels (ee, i, e, ay)
 
@@ -88,7 +92,7 @@ Examples: Vault, Zoom, Google, Uber, Docker, Pulsar, Drone
 
 ### The Size-Sound Effect
 
-This is called the **bouba/kiki effect** in cognitive science. When asked to match the names "bouba" and "kiki" to a round shape and a spiky shape, 90-95% of people across languages assign "bouba" to round and "kiki" to spiky.
+This is called the **bouba/kiki effect** in cognitive science. When asked to match the names "bouba" and "kiki" to a round shape and a spiky shape, 90-95% of people across languages assign "bouba" to round and "kiki" to spiky. This cross‑linguistic tendency makes vowel positioning a relatively reliable tool.
 
 **Implication for naming:** Match your vowel sounds to your product's character.
 - Building something powerful and large-scale? Back vowels (Vault, Zoom, Drone)
@@ -150,7 +154,7 @@ Use this as a guide, not a straitjacket. A name that breaks sound conventions bu
 
 ## Phonosemantic Clusters
 
-Some consonant combinations carry specific connotations in English due to pattern frequency:
+Some consonant combinations carry specific connotations in English due to pattern frequency. These associations are strongly language‑specific and may not transfer to other languages.
 
 | Cluster | Connotation | Words that built this pattern |
 | --------- | ------------- | ------------------------------- |
@@ -174,9 +178,10 @@ These are subtle but real. A product named "Glint" will feel inherently visual. 
 When you have a shortlist of name candidates, run this sound check:
 
 1. **Say each name aloud 5 times.** Does it feel natural in the mouth?
-2. **Match dominant sounds to product character.** Do they align?
+2. **Match dominant sounds to product character.** Do they align? (Remember these patterns are English‑based.)
 3. **Check the vowel weight.** Front (light/fast) vs back (heavy/powerful) — does it match?
 4. **Listen to the ending.** Does it stop cleanly or trail off? Which serves the name better?
 5. **Try it in a sentence.** "Check the `___` dashboard." "We switched to `___`." Does the rhythm work in natural speech?
+6. **Consider your audience's language.** If your primary market isn't English‑speaking, verify that the sound‑meaning associations work in their language.
 
 Sound alignment is a tiebreaker, not a dealbreaker. A name with a great metaphor and slightly mismatched sounds will always beat a phonetically perfect name with no story.
