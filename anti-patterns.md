@@ -145,3 +145,74 @@ After explaining a name's origin to someone, their response tells you everything
 - **"Isn't that already a thing?"** → The name fails. It's occupied territory.
 
 Aim for "that's clever." Settle for "oh, I see." Never ship "so what?"
+
+---
+
+## AI Product Anti-Patterns
+
+The 2023-2025 AI wave produced its own naming slop layer — patterns specific to naming AI products themselves. These are different from the [AI Name Slop](#ai-name-slop) section above, which covers names *generated* by AI; the patterns below are the ones to avoid when naming an AI product, regardless of how the candidates were generated.
+
+When an entire product category converges on the same naming patterns within 18 months, the patterns stop signaling category membership and start signaling "me too."
+
+### 1. The "AI" Prefix/Suffix Epidemic
+
+AIWriter, CopyAI, JasperAI, AI Dungeon, YouAI, WriteAI, ChatAI. Putting "AI" in the name:
+
+- **Dates the product.** When AI becomes table stakes, the prefix becomes meaningless — like "e-" in the 2000s or "cloud" in the 2010s. Both prefixes were everywhere; both vanished from new-product names within a decade.
+- **Provides zero distinctiveness.** Thousands of products now have "AI" in the name. The token has no discriminating power left.
+- **Signals "AI wrapper"** rather than a product with its own identity. Once a thin layer over someone else's model becomes the default, names that lead with "AI" get filed under that default.
+
+**When it might be acceptable:** Foundational research labs or model providers where the product literally *is* the AI (and even then, see pattern 3).
+
+### 2. The "Co-" / "-pilot" Imitation
+
+Copilot, Cody, Devin, plus a long tail of "[Anything]pilot" and "[Anything] Copilot" products. GitHub Copilot earned the name — co-pilot is a specific cockpit metaphor that maps cleanly to "an assistant sitting next to you while you work."
+
+Every imitator dilutes the metaphor without earning it:
+
+- The territory is now trademark-adjacent and generically associated with one specific product.
+- "[Category]pilot" reads as "Copilot, but for [category]" — which is a positioning statement, not a name.
+- Aviation metaphors (pilot, autopilot, navigator, hangar) are saturated for the same reason.
+
+**The fix:** Find a different metaphor territory entirely. The cockpit is taken.
+
+### 3. The Human Name Trend
+
+Claude, Gemini, Alexa, Siri, Jasper, Harvey, Sarah, Devin. Giving an AI product a human name works in exactly one situation:
+
+- **Works:** When the AI *is* the interface and the entire product. Foundational models can be named like people because users interact with them as conversational entities.
+- **Fails:** When the AI is a *feature* inside a larger product. "Meet Sarah, your AI assistant" inside a CRM is uncanny-valley cringe — the name implies personhood the product can't deliver, and users immediately notice the mismatch.
+- **Fails:** When the human name has no story connecting it to the product (Jasper for an AI writer — why Jasper?).
+
+**The test:** If a user could plausibly say "Sarah, do X" out loud as a primary interaction, a human name is on the table. If they're clicking a button labeled "Sarah," it isn't.
+
+### 4. The "Magic" Cliche
+
+Magical, Spell, Wand, Abracadabra, Enchant, Conjure, Sorcery. AI = magic was in every startup pitch deck of 2023-2024:
+
+- The territory is fully saturated.
+- "Magic" implies the product hides how it works — which conflicts with the trust requirements of most serious AI use cases.
+- It's a metaphor that ages badly: once users understand the underlying tech, the magic framing reads as condescension.
+
+**When it might work:** Consumer entertainment products where the "wow" effect IS the product. Almost never works for B2B.
+
+### 5. The "Smart" Prefix
+
+SmartReply, SmartCompose, SmartSuggest, SmartSearch. Already covered in [Filler-Word First Position](#filler-word-first-position) — flagged again because it's especially common in AI product naming.
+
+Calling an AI product "smart" is redundant. Of course it's smart, that's the entire premise. The prefix carries no information and consumes the first position of the compound, which is the most valuable real estate in any name.
+
+### 6. The "Neural" / "Neuro" Prefix
+
+NeuralLink, NeuroFlash, NeuralSpace, NeuroCore, Neuralify. Technical-sounding but:
+
+- Most AI products don't expose neural-network internals to users in a way that justifies foregrounding the architecture in the name.
+- The prefix adds no user-facing meaning — users don't pick a product because it uses neural networks, they pick it because it does something useful.
+- It dates the product to the deep-learning hype cycle in the same way "cloud" dated products to the SaaS hype cycle.
+- It sounds impressive for two seconds, then reads as decoration.
+
+**When it might work:** Products genuinely about neuroscience, brain-computer interfaces, or neural-network research itself. Almost never works for application-layer products.
+
+---
+
+**Cross-reference:** The patterns above are about naming AI products. For the *opposite* problem — recognizing names that were generated *by* AI — see [AI Name Slop](#ai-name-slop) at the top of this file. The two failure modes share aesthetics but require different fixes.
