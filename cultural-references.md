@@ -156,7 +156,61 @@ Why it works for naming:
 Example naming opportunities:
 - Developer tools or AI assistants: *Druid*, *Sidhe*, *Ogham*.
 - Infrastructure tools: *StoneCircle*, *OakDruid*.
-## Multi-Level Names
+
+---
+
+## Source Domains for AI Products
+
+AI products draw from cultural territory that other categories don't touch — sci-fi imaginaries of intelligence, the actual history of computing, and mythologies of knowledge itself. Saturation here moves fast; what was underused in 2022 is now occupied. The lists below mark current saturation as of the AI wave that began in 2022.
+
+### Sci-Fi AI Characters
+
+The most obvious source domain — and the most dangerous, because the obvious picks are already exhausted and most carry baggage.
+
+**Oversaturated — avoid:**
+- HAL, Skynet, Terminator, Matrix — overused, and all carry "AI will kill us" connotations that work against trust-building.
+
+**Moderately used — use only with strong differentiation:**
+- JARVIS (Iron Man), Data (Star Trek), Samantha (Her), Wall-E.
+
+**Underexplored — still viable territory:**
+- Wintermute (Neuromancer) — a constrained AI seeking unification, rich for autonomy/agent products.
+- Jane (Ender's Game) — distributed intelligence emerging from network infrastructure.
+- Mike / Mycroft (The Moon Is a Harsh Mistress) — friendly emergent intelligence that helps a revolution; underused outside the Mycroft project.
+- Multivac (Asimov) — vast question-answering system, prefigures search/QA products.
+- Cortana (Halo) — already taken by Microsoft, listed for reference.
+
+**Sound character:** varies — sci-fi names tend toward either short technical (HAL, JARVIS) or human-warm (Samantha, Jane). Pick the register that matches the product's interaction model.
+
+### Computing Pioneers
+
+Real historical figures from information theory, early computing, and mathematics. Concrete biographies give a name a story without requiring fiction.
+
+- **Already used — verify availability:** Claude (Anthropic, after Claude Shannon), Ada (multiple, after Ada Lovelace), Turing (multiple).
+- **Less saturated:** Shannon, Babbage, Hopper (Grace Hopper — "the mother of COBOL"), Dijkstra, Knuth, Hamming, Backus, Boole, Lovelace (the surname rather than the first name), Wiener (cybernetics).
+- **Caution:** Living-person names are off-limits without permission; historical-only.
+- **Sound character:** academic, weighty, often single-word. Works best for products that want to signal craft and rigor, not consumer warmth.
+
+### Mythology of Knowledge and Wisdom
+
+Mythological figures specifically associated with knowledge, learning, or sacrifice-for-understanding — narrower than general mythology and a stronger metaphor fit for AI than warriors or storm gods.
+
+- **Athena / Minerva** — goddess of wisdom and strategic warfare. Somewhat saturated in tech.
+- **Thoth** — Egyptian god of writing, knowledge, and judgment. Underused.
+- **Saraswati** — Hindu goddess of knowledge, music, and the arts. Underused in Western tech.
+- **Odin** — traded an eye at Mímir's well for wisdom; the specific sacrifice-for-knowledge metaphor is strong and relatively unworn.
+- **Prometheus** — brought knowledge (fire) to humanity. Already taken by the Prometheus monitoring project — collision risk in dev-tool space.
+- **Ganesha** — remover of obstacles, often invoked at the start of intellectual work. Underused in tech.
+- **Sound character:** elevated, ancient, often two-to-three syllables with strong vowels. Carries gravitas — works for products positioned as serious knowledge tools, can feel pompous on lightweight utilities.
+
+### Cognitive Science Concepts
+
+Scientific terms from psychology, neuroscience, and philosophy of mind. Less obviously "cool" than mythology, which is exactly why this territory is less saturated.
+
+- **Concepts:** Gestalt (whole-greater-than-parts perception), schema (mental framework), heuristic (rule-of-thumb shortcut), qualia (subjective experience), metacognition (thinking about thinking), salience (what stands out), valence (emotional charge), affordance (what an object suggests).
+- **Why it works:** scientific terms feel grounded rather than mystical, which suits products targeting technical or analytical users.
+- **Caution:** some terms (qualia, metacognition) require familiarity with the field — they fail the "name works without knowing the reference" test for general audiences.
+- **Sound character:** technical, precise, often Greco-Latin in origin. Works best for B2B and technical-audience products.
 
 The best cultural reference names work on multiple levels simultaneously:
 
