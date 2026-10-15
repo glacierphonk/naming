@@ -136,6 +136,7 @@ The WordPress Foundation enforces trademark rules that affect plugin and theme n
 - **"WP" is allowed** but discouraged — signals commodity, not premium
 - **"for WordPress" is acceptable** as a descriptor, not a name component
 - **Check:** [WordPress Trademark Policy](https://wordpressfoundation.org/trademark-policy/)
+- **Full WordPress guide:** slug permanence, the `wp-`/`woo` prefix rules, theme and block naming in [industries/wordpress.md](industries/wordpress.md)
 
 ---
 
